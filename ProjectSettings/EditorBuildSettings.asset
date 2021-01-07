@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Homework/Scenes/IntroMenu.unity
+    guid: 86a0aa423f439644bb8e6efea06a1118
+  - enabled: 1
+    path: Assets/Homework/Scenes/ChooseLevelScene.unity
+    guid: e915077280443034094526e6de5a2a4d
+  - enabled: 1
+    path: Assets/Homework/Scenes/MainSceneLevel1.unity
+    guid: 8aea4eaf6d5a312499a6aee4c49a5470
+  - enabled: 1
+    path: Assets/Homework/Scenes/MainSceneLevel2.unity
+    guid: 8d2fea93b20770745a0bdef9189da8ce
+  - enabled: 1
+    path: Assets/Homework/Scenes/MainSceneLevel3.unity
+    guid: 857f2f3c99070f24991f4f555ed9b337
+  - enabled: 1
+    path: Assets/Homework/Scenes/LobbyScene.unity
+    guid: b3413277ea4e12844a06fa482a1ed3fd
+  - enabled: 1
+    path: Assets/Homework/Scenes/MultiplayScene.unity
+    guid: 7e50881570f5d9b4ebccc5cbbe072add
+  - enabled: 1
+    path: Assets/Homework/Scenes/LoseScene.unity
+    guid: 853f6afb88430634a9a61611cebf2371
+  - enabled: 1
+    path: Assets/Homework/Scenes/WinScene.unity
+    guid: 030e4307a5691ce44baa35d1bd0b867f
+  - enabled: 1
+    path: Assets/Homework/Scenes/WinSceneLevel1.unity
+    guid: 86c3b83e5e41e964b9e3a1340fbbf1fb
+  - enabled: 1
+    path: Assets/Homework/Scenes/WinSceneLevel2.unity
+    guid: 078a75757113bae499df06cdff02975a
+  - enabled: 1
+    path: Assets/Homework/Scenes/WinSceneLevel3.unity
+    guid: d39c143f799dd38429680951d3341356
+  m_configObjects: {}
